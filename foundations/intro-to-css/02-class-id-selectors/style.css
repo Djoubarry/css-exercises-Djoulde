@@ -1,0 +1,14 @@
+.nbre{
+    background-color: rgb(211, 138, 138);
+    font-family: Verdana, sans-serif;
+    
+}
+#two {
+    color: blue;
+    font-size: 36px;
+}
+#final {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
